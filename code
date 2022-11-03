@@ -1,0 +1,48 @@
+[{
+		"name": "Practice",
+		"description": "The biggest piece of advice is simply to practice. While this may seem obvious, it can be frustrating to not be good at the game on your first try, and it may be tempting to give up and say the game just isn't for you.
+                     The best thing to do is spend time practicing the songs that give you the most issues and perfect your playing. Friday Night Funkin' is a very accessible game, available for free, so it's worth trying to succeed so you can play a fun, well-made game and enjoy it.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Mommy-Mearest-Cropped.jpg"
+	},
+	{
+		"name": "Change the Scroll Pattern",
+		"description": "Since the game still isn't fully developed, it gets new updates every once in a while. In one of the most recent ones, a new way to play the game was added - downward scrolling.
+                    Previously, the only way to view the notes was an upward scrolling pattern. Now you can play with the notes scrolling towards the bottom of the screen. For some players, this has proved immensely useful, so if you find the notes to be disorienting or confusing, try switching up the scrolling pattern.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Downscroll-Cropped.jpg"
+	}, {
+		"name": "Don't Button Smash",
+		"description": "Make sure to keep your cool and try to process just one or two of the buttons instead of all four. Button smashing will just bring Boyfriend closer to losing the rap battle. If the sequences are still too fast to process, try Easy mode if you aren't already on it.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Death-Cropped.jpg"
+	}, {
+		"name": "Focus on the Main Game Before Playing Mods",
+		"description": "There is an amazingly talented modding community built around Friday Night Funkin'. Players and game developers alike have created some stunning mods for the game, but some can go beyond the hardest difficulty level in the main game.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Daddy-Dearest-Cropped.jpg"
+	}, {
+		"name": "Use FreePlay to Practice Individual Songs",
+		"description": "In the game, there are two game modes: Story Mode and FreePlay. Story Mode is divided into Weeks, each one featuring one main opponent. Each Week has three songs that get progressively harder as you go.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Menu-Cropped.jpg"
+	},{
+		"name": "Listen to the Music",
+		"description": "If you learn the music before or during your journey, it can help you have a general idea of what's coming when you play. Listening to the music can help you remember sequences, especially when it repeats most of the sequences twice. Not to mention that the music in Friday Night Funkin' is indeed funky, so it's a fun listen.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Lemon-Demon-Cropped.jpg"
+	},
+	{
+		"name": "Start on Easy Mode",
+		"description": "This may sound like a given, but it's definitely a good idea to start your funky journey on Easy mode. Friday Night Funkin' has three different game modes: Easy, Normal, and Hard.
+                    If Normal difficulty is proving to be challenging, it's a good idea to take it down a notch and ace the Easy mode first. Leave the Hard mode until you feel confident enough in the week's songs to do well, or else poor Boyfriend will suffer a hit to his ego.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Tutorial-Cropped.jpg"
+	}, {
+		"name": "Pay Attention to the Entire Sequence",
+		"description": "A common mistake beginner Friday Night Funkin' players make is to only focus on the notes as they hit the arrows on your side of the screen. One of the best things to do, though, is pay full attention to the sequence before it's even your turn.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Lemon-2-Cropped.jpg"
+	}, {
+		"name": "Change Your Keys to FGHJ",
+		"description": "Another way to help finger fatigue when playing is to change your keys to any sort of configuration similar to the F, G, H, and J keys. That way, you'll hit buttons in the same positions that are depicted on screen instead of remembering which arrow is You can change it to any keys, just make sure they're four next to each other. For instance, you could do H, J, K, and L, or Y, U, I, and O. Pick whichever orientation suits you best. It may be difficult to adjust to this playing style, but it could be worth it in the long run.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Spooky-Cropped.jpg"
+	}, {
+		"name": "You Can Use Arrow Keys And WASD",
+		"description": "One of the most underrated ways to improve at Friday Night Funkin' is to play two-handed. What most people don't know is that you can use both the arrow keys and WASD to play. You can even use them at the same time.
+                     Many players recommend using the left and right arrow keys and the W and S keys at the same time, or up, down, A, and D. You are welcome to pick which configuration works best for you. Using both at once makes your hands feel less cramped when playing and makes it much easier to play fast combos.",
+		"img": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/09/FNF-Controls-Cropped-Circle.jpg"
+	}
+]
